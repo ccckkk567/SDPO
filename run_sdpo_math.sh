@@ -27,7 +27,7 @@ source activate sdpo
 # HuggingFace / Transformers
 export HF_HOME="/seu_share2/home/fenglei/213231600/hf"
 export HF_DATASETS_CACHE="/seu_share2/home/fenglei/213231600/hf_datasets"
-export HF_TOKEN="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"
+export HF_TOKEN="hf_token_here"
 export HF_HUB_ENABLE_HF_TRANSFER=1
 
 # XDG cache（tokenizers / rust / sentencepiece 等）
